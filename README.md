@@ -12,7 +12,7 @@
 + Gson
 + HttpUrlConnection
 + Room
-+ Navigation
++ Navigation Architecture Component
 
 
 ## App Screenshots

@@ -22,7 +22,7 @@
 <img src="https://github.com/IceFroggit/BinApp/blob/master/Screens/photo_2023-01-16_22-44-00%20(2).jpg" width="270" height="555">
 </div>
 
-2.Список истории запросов и нажатие на элемент списка с выводом всех сохраненых данных карты
+2.Список истории запросов сохранненых в внутренней БД и нажатие на элемент списка с выводом всех сохраненых данных карты
 <div align="center">
 <img src="https://github.com/IceFroggit/BinApp/blob/master/Screens/photo_2023-01-16_22-44-00%20(3).jpg" width="270" height="555">
 <img src="https://github.com/IceFroggit/BinApp/blob/master/Screens/photo_2023-01-16_22-44-01.jpg" width="270" height="555">
